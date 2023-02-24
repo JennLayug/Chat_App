@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+  <title> Chat App </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ChatApp.css">
+
+</head>
+
+<body>
+
+  <div class="header">
+    <div class="header-right">
+    <div class="dropdown">
+    <button class="dropbtn"> Menu <img src="icon.png"; width="25px" height="25px"> <br>
+     <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="about.html">About Us</a>
+      <a href="terms1.html">Terms and  Privacy</a>
+
+    </div>
+  </div>
+</div>
+    </div>
+  </div>
+  <center>
+  	<hr class="new2">
+  	<br>
+  		<br>
+  	<h1> Welcome to Chat App</h1>
+<hr class="new1">
+
+<br>
+<br>
+<a href="Login.html"><button class="button">LOG-IN</button></a>
+<br>
+<a href="signup.html"><button class="button">SIGN-UP</button></a>
+</center>
+</body>
+</html>
+
